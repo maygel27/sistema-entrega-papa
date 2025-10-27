@@ -1,0 +1,6 @@
+# Archivos que GitHub debe ignorar
+.DS_Store
+Thumbs.db
+.vscode/
+*.log
+node_modules/
